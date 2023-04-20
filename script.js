@@ -1,3 +1,3 @@
 
-var yourArray  = ['one', 2, 'three', true, 3, false, 'toys'];
+var array  = ['one', 2, 'three', true, 3, 'toys'];
 // console.log(yourArray.length);
